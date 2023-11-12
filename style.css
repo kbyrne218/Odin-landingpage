@@ -1,0 +1,42 @@
+* {
+    font-family: Roboto;
+}
+
+
+header {
+    background-color: #1F2937;
+    padding: 10px;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.top-right-links {
+    
+    list-style: none;
+    margin: 0;
+    padding-right: 150px;
+    display: flex;
+}
+
+.top-right-links li {
+    
+    margin-left: 10px;
+}
+
+.top-right-links a {
+    text-decoration: none;
+    color: white;
+    padding: 8px 12px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+}
+
+.top-right-links a:hover {
+    background-color: #fff;
+    color: #333;
+}
+
