@@ -78,6 +78,7 @@ button {
 
 .container2 {
     text-align: center;
+    margin: 0px;
     padding-left: 250px;
     padding-right: 250px;
     
@@ -119,3 +120,24 @@ h2 {
     font-size: 36px;
     font-style: italic;
 }
+
+.container3 {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    margin: 0px;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h5 {
+    font-size: 20px;
+}
+
+#button2 {
+    padding: 10px;
+    float: right;
+
+}
+
