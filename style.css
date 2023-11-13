@@ -74,3 +74,26 @@ button {
 #spaniel {
     padding-right: 250px;
 }
+
+.container2 {
+    text-align: center;
+    
+}
+
+.section2 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+    
+}
+
+.box {
+    border: 5px solid rgb(0, 89, 255);
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    padding: 20px;
+    
+}
