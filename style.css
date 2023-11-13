@@ -62,7 +62,7 @@ h1 {
 }
 
 button {
-    background-color: rgb(42, 132, 215);
+    background-color: #3882F6;
     color: #F9FAF8;
     font-size: 16px;
     font-weight: bolder;
@@ -73,6 +73,7 @@ button {
 
 #spaniel {
     padding-right: 250px;
+    padding-bottom: 50px;
 }
 
 .container2 {
@@ -98,4 +99,23 @@ button {
     margin: 10px;
     padding: 20px;
     
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    
+    text-align: center;
+    padding: 250px;
+    
+}
+
+#quote {
+    font-size: 36px;
+    font-style: italic;
 }
